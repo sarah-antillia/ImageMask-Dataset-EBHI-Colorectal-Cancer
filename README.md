@@ -40,7 +40,7 @@ https://figshare.com/articles/dataset/EBHI-SEG/21540159/1
 Please run the following Python script <a href="./EBHIColorectalImageMaskDatasetGenerator.py">EBHIColorectalImageMaskDatasetGenerator.py</a>.
 <br>
 <pre>
-python EBHIColorectalImageMaskDatasetGenerator.py
+> python EBHIColorectalImageMaskDatasetGenerator.py
 </pre>
 , by which the following Augmented-ImageMask Dataset, <b>EBHI-Colorectal-Cancer-ImageMask-Dataset-V2</b>, will be created
  from the master datatset .<br>
