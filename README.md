@@ -37,7 +37,7 @@ Please download the master dataset <b>EBHI-SEG</b> from the following link on fi
 https://figshare.com/articles/dataset/EBHI-SEG/21540159/1
 </pre>
 
-Please run the following Python script <a href="./EBHIColorectalImageMaskDatasetGenerator.py">EBHIColorectalImageMaskDatasetGenerator.py</a>.
+Please run the following command for Python script <a href="./EBHIColorectalImageMaskDatasetGenerator.py">EBHIColorectalImageMaskDatasetGenerator.py</a>.
 <br>
 <pre>
 > python EBHIColorectalImageMaskDatasetGenerator.py
