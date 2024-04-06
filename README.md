@@ -32,7 +32,7 @@ https://www.frontiersin.org/articles/10.3389/fmed.2023.1114673/full
 
 <h3>2. ImageMaskDataset Generation</h3>
 
-Please master dataset <b>EBHI-SEG</b> from the following link on figshare.com.<br> 
+Please download the master dataset <b>EBHI-SEG</b> from the following link on figshare.com.<br> 
 <pre>
 https://figshare.com/articles/dataset/EBHI-SEG/21540159/1
 </pre>
